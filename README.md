@@ -22,7 +22,7 @@ WHEN all prompts are answered THEN a password is generated that matches the sele
 WHEN the password is generated THEN the password is either displayed in an alert or written to the page
 
 ## Deployed Website
-
+https://tylerevans-hash.github.io/password-generator/
 
 ## Made with:
 - HTML
